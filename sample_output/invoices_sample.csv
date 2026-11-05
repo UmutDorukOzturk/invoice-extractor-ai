@@ -1,0 +1,22 @@
+﻿status,file,supplier,supplier_vat_id,invoice_number,invoice_date,due_date,currency,net,vat_rate,vat,total,read_by,notes
+OK,AOS-26-0412.pdf,Atlas Office Supplies B.V.,NL001234567B01,AOS-26-0412,2026-10-03,2026-11-02,EUR,175.80,0.2100,36.92,212.72,Rules,
+OK,AOS-26-0419.pdf,Atlas Office Supplies B.V.,NL001234567B01,AOS-26-0419,2026-10-09,2026-11-08,EUR,76.15,0.2100,15.99,92.14,Rules,
+OK,AOS-26-0431.pdf,Atlas Office Supplies B.V.,NL001234567B01,AOS-26-0431,2026-10-16,2026-11-15,EUR,163.40,0.2100,34.31,197.71,Rules,
+OK,AOS-26-0447.pdf,Atlas Office Supplies B.V.,NL001234567B01,AOS-26-0447,2026-10-27,2026-11-26,EUR,332.00,0.2100,69.72,401.72,Rules,
+Duplicate,Atlas reminder AOS-26-0431.pdf,Atlas Office Supplies B.V.,NL001234567B01,AOS-26-0431,2026-10-16,2026-11-15,EUR,163.40,0.2100,34.31,197.71,Rules,Duplicate of AOS-26-0431.pdf: same supplier and invoice number. Pay only once
+OK,CCS_2026_118.pdf,Cedar Cleaning Services,NL003456789B01,CCS/2026/118,2026-10-07,2026-10-21,EUR,487.50,0.2100,102.38,589.88,Rules,
+OK,CCS_2026_124.pdf,Cedar Cleaning Services,NL003456789B01,CCS/2026/124,2026-10-14,2026-10-28,EUR,618.00,0.2100,129.78,747.78,Rules,
+OK,CCS_2026_131.pdf,Cedar Cleaning Services,NL003456789B01,CCS/2026/131,2026-10-21,2026-11-04,EUR,650.00,0.2100,136.50,786.50,Rules,
+OK,EVP-2026-3391 Harbor Pine.pdf,Evergreen Packaging Ltd,IE6388047V,EVP-2026-3391,2026-10-02,2026-11-01,EUR,234.90,0.2100,49.33,284.23,Rules,
+Check,EVP-2026-3420 Harbor Pine.pdf,Evergreen Packaging Ltd,IE6388047V,EVP-2026-3420,2026-10-16,2026-11-15,EUR,185.75,0.2100,39.01,224.76,Rules,"Line 2: 2 × 38.50 = 77.00, but the invoice says 79.00"
+OK,EVP-2026-3466 Harbor Pine.pdf,Evergreen Packaging Ltd,IE6388047V,EVP-2026-3466,2026-10-30,2026-11-29,EUR,138.80,0.2100,29.15,167.95,Rules,
+OK,factuur DD-77812.pdf,Delta Zuivel Groothandel,NL004567890B01,DD-77812,2026-10-01,2026-10-31,EUR,160.60,0.0900,14.45,175.05,Rules,
+OK,factuur DD-77901.pdf,Delta Zuivel Groothandel,NL004567890B01,DD-77901,2026-10-08,2026-11-07,EUR,112.08,0.0900,10.09,122.17,Rules,
+OK,factuur DD-77988.pdf,Delta Zuivel Groothandel,NL004567890B01,DD-77988,2026-10-15,2026-11-14,EUR,160.30,0.0900,14.43,174.73,Rules,
+OK,factuur DD-78050.pdf,Delta Zuivel Groothandel,NL004567890B01,DD-78050,2026-10-22,2026-11-21,EUR,136.34,0.0900,12.27,148.61,Rules,
+OK,Invoice_BCR-10293.pdf,Brightline Coffee Roasters B.V.,NL002345678B01,BCR-10293,2026-10-07,2026-11-06,EUR,382.20,0.0900,34.40,416.60,Rules,
+OK,Invoice_BCR-10307.pdf,Brightline Coffee Roasters B.V.,NL002345678B01,BCR-10307,2026-10-13,2026-11-12,EUR,242.80,0.0900,21.85,264.65,Rules,
+Check,Invoice_BCR-10322.pdf,Brightline Coffee Roasters B.V.,NL002345678B01,BCR-10322,2026-10-20,2026-11-19,EUR,299.60,0.0900,27.86,327.46,Rules,"VAT 9% of 299.60 is 26.96, but the invoice says 27.86"
+OK,Invoice_BCR-10338.pdf,Brightline Coffee Roasters B.V.,NL002345678B01,BCR-10338,2026-10-27,2026-11-26,EUR,405.80,0.0900,36.52,442.32,Rules,
+Unreadable,scan_2026-10-16_0932.pdf,,,,,,EUR,,,,,,"Scanned image with no text layer: run with --ai to read it, or enter it by hand"
+Unreadable,scan_2026-10-30_1015.pdf,,,,,,EUR,,,,,,"Scanned image with no text layer: run with --ai to read it, or enter it by hand"

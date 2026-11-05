@@ -1,0 +1,7 @@
+pdfplumber>=0.11
+openpyxl>=3.1
+pydantic>=2.0
+anthropic>=2.5        # only needed for the --ai step
+pytest>=8.0           # tests
+reportlab>=4.0        # only for tools/make_sample_invoices.py
+pymupdf>=1.24         # only for tools/make_sample_invoices.py
